@@ -1,3 +1,12 @@
 # hello-word
-Hello word in c
 author Cristian Arauz  
+
+
+may code will go here
+
+
+#include<stdio.h>
+main()
+{ 
+  printf("HEllO WORD");
+  }
